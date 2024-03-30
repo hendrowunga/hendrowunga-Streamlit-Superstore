@@ -42,7 +42,7 @@ Untuk menjalankan dashboard secara lokal, ikuti langkah-langkah berikut:
 1. Kloning repositori ini ke mesin lokal Anda:
 
 ```bash
-git https://github.com/hendrowunga/hendrowunga-Streamlit-Superstore.git
+git clone https://github.com/hendrowunga/hendrowunga-Streamlit-Superstore.git
 ```
 
 2. Navigasi ke direktori proyek:
