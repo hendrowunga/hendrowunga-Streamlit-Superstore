@@ -8,7 +8,7 @@ Berikut adalah tangkapan layar dari beberapa visualisasi yang dihasilkan oleh da
 
 ### Ringkasan Penjualan Berdasarkan Kategori
 
-![Ringkasan Penjualan Berdasarkan Kategori](images/category_sales.png)
+![Ringkasan Penjualan Berdasarkan Kategori](images/Category_sales.png)
 
 ### Tren Time Series dari Penjualan
 
